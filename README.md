@@ -1,1 +1,3 @@
 # SprigRepo
+
+learning Git
